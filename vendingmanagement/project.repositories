@@ -4,7 +4,7 @@
       <include>true</include>
       <metadata>
         <id>guvnor-m2-repo</id>
-        <url>http://localhost:7610/kie-drools-wb/maven2/</url>
+        <url>http://localhost:8080/kie-drools-wb/maven2/</url>
         <source>PROJECT</source>
       </metadata>
     </repository>
